@@ -1,6 +1,7 @@
 /.htaccess
 /_scripts
 /package.json
+/package-lock.json
 /wp-config.php
 
 /wp-content/plugins/*
